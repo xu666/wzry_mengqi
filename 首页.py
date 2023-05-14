@@ -16,9 +16,9 @@ st.markdown("# S31 梦奇出装分析\n\n### *by 果果分水果* 😎")
 st.markdown('## 个人推荐出装')
 with st.expander('🤾 别说话，点我！'):
     tab1, tab2, tab3 = st.tabs(['第一套', '第二套', '第三套'])
-    tab1.image(r'.\data\出装1.png')
-    tab2.image(r'.\data\出装2.png')
-    tab3.image(r'.\data\出装3.png')
+    tab1.image(r'./data/出装1.png')
+    tab2.image(r'./data/出装2.png')
+    tab3.image(r'./data/出装3.png')
 
 # 题外话
 st.markdown('## 题外话\n\n最近在学习 ***Streamlit*** ，'
