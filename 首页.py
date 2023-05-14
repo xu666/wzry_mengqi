@@ -1,6 +1,8 @@
 import re
 
 import streamlit as st
+import openpyxl
+import plotly
 
 # 初始化
 st.set_page_config(layout='wide', page_icon='😏')
